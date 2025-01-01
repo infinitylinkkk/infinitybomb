@@ -19,4 +19,7 @@ Bu araç yalnızca **yasal ve eğitim amaçlı** kullanılmalıdır. Kötüye ku
    pkg update && pkg upgrade -y
    pkg install git python -y
    pip install requests
-   
+   git clone https://github.com/infinitylinkkk/infinitybomb.git
+   cd infinitybomb
+   pip install -r requirements.txt
+   python3 infinitybomb.py
