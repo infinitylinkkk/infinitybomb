@@ -1,4 +1,4 @@
-# InfinityBomber
+# İnfinityBomber
 
 InfinityBomber, hedef numaraya toplu SMS göndermenizi sağlayan basit bir araçtır. Araç, **Turbo** ve **Normal** mod olmak üzere iki farklı hız seçeneği sunar.
 
