@@ -1,5 +1,7 @@
 # İnfinityBomber
 
+![InfinityBomber Kullanım Örneği](https://github.com/infinitylinkkk/infinitybomb/blob/d92569105057f6d08fa9b4398a1dfd9467f80844/IMG_20250101_114836.jpg)
+
 InfinityBomber, hedef numaraya toplu SMS göndermenizi sağlayan basit bir araçtır. Araç, **Turbo** ve **Normal** mod olmak üzere iki farklı hız seçeneği sunar.
 
 ## 🚨 Uyarı
