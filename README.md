@@ -1,2 +1,22 @@
-# infinitybomb
-İnfinityBomber aynı anda bir sürü sms atmaya yarar
+# InfinityBomber
+
+InfinityBomber, hedef numaraya toplu SMS göndermenizi sağlayan basit bir araçtır. Araç, **Turbo** ve **Normal** mod olmak üzere iki farklı hız seçeneği sunar.
+
+## 🚨 Uyarı
+
+Bu araç yalnızca **yasal ve eğitim amaçlı** kullanılmalıdır. Kötüye kullanım, ciddi sonuçlara yol açabilir. Sorumluluk tamamen kullanıcıya aittir.
+
+---
+
+## 📲 Termux Kurulumu
+
+1. **Termux'u indirin ve açın.**  
+   Termux uygulamasını [Google Play](https://play.google.com) veya F-Droid'den indirip yükleyebilirsiniz.
+
+2. **Bağımlılıkları yükleyin.**  
+   Termux'u açtıktan sonra aşağıdaki komutları sırasıyla çalıştırın:  
+   ```bash
+   pkg update && pkg upgrade -y
+   pkg install git python -y
+   pip install requests
+   
